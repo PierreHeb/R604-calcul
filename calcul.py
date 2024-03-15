@@ -7,3 +7,4 @@ for i in range(1,50):
 	mult(1,5)
 
 
+print("ok")
